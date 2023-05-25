@@ -1,0 +1,284 @@
+[
+  {
+    "id": "1",
+    "name": "Shahin Alam",
+    "years_of_experience": 20,
+    "num_of_recipes": 200,
+    "likes": 12000,
+    "rating": { "number": 4.2, "badge": "Excellent" },
+    "image": "https://i.ibb.co/kGmgCwY/Tony-Khan.jpg",
+    "recipes": [
+      {
+        "title": "Biryani",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb. chicken",
+          "1 onion",
+          "1 tomato",
+          "1 tbsp. ginger garlic paste"
+        ],
+
+        "instructions": "Wash the rice and soak it in water for 30 minutes., Heat ghee in a large pan and fry sliced onions until golden brown., Add ginger garlic paste, tomatoes, and spices and cook for 2-3 minutes., Add chicken and cook until browned., Add yogurt and cook for another 5 minutes., In a separate pot, boil water and add rice., Cook rice until it's 3/4th done., Layer rice and chicken mixture in a large pot, starting and ending with rice., Add mint and coriander leaves on top., Cover pot with a lid and cook on low heat for 15-20 minutes or until rice is fully cooked."
+      },
+      {
+        "title": "Pitha",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb. chicken",
+          "1 onion",
+          "1 tomato",
+          "1 tbsp. ginger garlic paste"
+        ],
+
+        "instructions": "Wash the rice and soak it in water for 30 minutes., Heat ghee in a large pan and fry sliced onions until golden brown., Add ginger garlic paste, tomatoes, and spices and cook for 2-3 minutes., Add chicken and cook until browned., Add yogurt and cook for another 5 minutes., In a separate pot, boil water and add rice., Cook rice until it's 3/4th done., Layer rice and chicken mixture in a large pot, starting and ending with rice., Add mint and coriander leaves on top., Cover pot with a lid and cook on low heat for 15-20 minutes or until rice is fully cooked."
+      },
+      {
+        "title": "Shorshe Ilish",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb. chicken",
+          "1 onion",
+          "1 tomato",
+          "1 tbsp. ginger garlic paste"
+        ],
+
+        "instructions": "Wash the rice and soak it in water for 30 minutes., Heat ghee in a large pan and fry sliced onions until golden brown., Add ginger garlic paste, tomatoes, and spices and cook for 2-3 minutes., Add chicken and cook until browned., Add yogurt and cook for another 5 minutes., In a separate pot, boil water and add rice., Cook rice until it's 3/4th done., Layer rice and chicken mixture in a large pot, starting and ending with rice., Add mint and coriander leaves on top., Cover pot with a lid and cook on low heat for 15-20 minutes or until rice is fully cooked."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Tony Khan",
+    "years_of_experience": 15,
+    "num_of_recipes": 150,
+    "likes": 8000,
+    "rating": { "number": 4.3, "badge": "Excellent" },
+    "image": "https://i.ibb.co/hY7gNwF/Shahin-Alam.jpg",
+    "recipes": [
+      {
+        "title": "Maton Tikka",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb. chicken",
+          "1 onion",
+          "1 tomato",
+          "1 tbsp. ginger garlic paste"
+        ],
+
+        "instructions": "Wash the rice and soak it in water for 30 minutes., Heat ghee in a large pan and fry sliced onions until golden brown., Add ginger garlic paste, tomatoes, and spices and cook for 2-3 minutes., Add chicken and cook until browned., Add yogurt and cook for another 5 minutes., In a separate pot, boil water and add rice., Cook rice until it's 3/4th done., Layer rice and chicken mixture in a large pot, starting and ending with rice., Add mint and coriander leaves on top., Cover pot with a lid and cook on low heat for 15-20 minutes or until rice is fully cooked."
+      },
+      {
+        "title": "Kofta polao",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb. chicken",
+          "1 onion",
+          "1 tomato",
+          "1 tbsp. ginger garlic paste"
+        ],
+
+        "instructions": "Wash the rice and soak it in water for 30 minutes., Heat ghee in a large pan and fry sliced onions until golden brown., Add ginger garlic paste, tomatoes, and spices and cook for 2-3 minutes., Add chicken and cook until browned., Add yogurt and cook for another 5 minutes., In a separate pot, boil water and add rice., Cook rice until it's 3/4th done., Layer rice and chicken mixture in a large pot, starting and ending with rice., Add mint and coriander leaves on top., Cover pot with a lid and cook on low heat for 15-20 minutes or until rice is fully cooked."
+      },
+      {
+        "title": "Beef Kalavuna",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb. chicken",
+          "1 onion",
+          "1 tomato",
+          "1 tbsp. ginger garlic paste"
+        ],
+
+        "instructions": "Wash the rice and soak it in water for 30 minutes., Heat ghee in a large pan and fry sliced onions until golden brown., Add ginger garlic paste, tomatoes, and spices and cook for 2-3 minutes., Add chicken and cook until browned., Add yogurt and cook for another 5 minutes., In a separate pot, boil water and add rice., Cook rice until it's 3/4th done., Layer rice and chicken mixture in a large pot, starting and ending with rice., Add mint and coriander leaves on top., Cover pot with a lid and cook on low heat for 15-20 minutes or until rice is fully cooked."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Shawkat Osman",
+    "years_of_experience": 25,
+    "num_of_recipes": 300,
+    "likes": 5000,
+    "rating": { "number": 4.4, "badge": "Excellent" },
+    "image": "https://i.ibb.co/WfVW6Yd/Shawkat-Osman.jpg",
+    "recipes": [
+      {
+        "title": "Nobabi Dim Polao",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb. chicken",
+          "1 onion",
+          "1 tomato",
+          "1 tbsp. ginger garlic paste"
+        ],
+
+        "instructions": "Wash the rice and soak it in water for 30 minutes., Heat ghee in a large pan and fry sliced onions until golden brown., Add ginger garlic paste, tomatoes, and spices and cook for 2-3 minutes., Add chicken and cook until browned., Add yogurt and cook for another 5 minutes., In a separate pot, boil water and add rice., Cook rice until it's 3/4th done., Layer rice and chicken mixture in a large pot, starting and ending with rice., Add mint and coriander leaves on top., Cover pot with a lid and cook on low heat for 15-20 minutes or until rice is fully cooked."
+      },
+      {
+        "title": "Maton Biryani",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb. chicken",
+          "1 onion",
+          "1 tomato",
+          "1 tbsp. ginger garlic paste"
+        ],
+
+        "instructions": "Wash the rice and soak it in water for 30 minutes., Heat ghee in a large pan and fry sliced onions until golden brown., Add ginger garlic paste, tomatoes, and spices and cook for 2-3 minutes., Add chicken and cook until browned., Add yogurt and cook for another 5 minutes., In a separate pot, boil water and add rice., Cook rice until it's 3/4th done., Layer rice and chicken mixture in a large pot, starting and ending with rice., Add mint and coriander leaves on top., Cover pot with a lid and cook on low heat for 15-20 minutes or until rice is fully cooked."
+      },
+      {
+        "title": "Maton Kacchi",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb. chicken",
+          "1 onion",
+          "1 tomato",
+          "1 tbsp. ginger garlic paste"
+        ],
+
+        "instructions": "Wash the rice and soak it in water for 30 minutes., Heat ghee in a large pan and fry sliced onions until golden brown., Add ginger garlic paste, tomatoes, and spices and cook for 2-3 minutes., Add chicken and cook until browned., Add yogurt and cook for another 5 minutes., In a separate pot, boil water and add rice., Cook rice until it's 3/4th done., Layer rice and chicken mixture in a large pot, starting and ending with rice., Add mint and coriander leaves on top., Cover pot with a lid and cook on low heat for 15-20 minutes or until rice is fully cooked."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Ruhana Begum",
+    "years_of_experience": 10,
+    "num_of_recipes": 100,
+    "likes": 7000,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "image": "https://i.ibb.co/Hn8318n/Ruhana-Begum.jpg",
+    "recipes": [
+      {
+        "title": "Chap Kabab",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb. chicken",
+          "1 onion",
+          "1 tomato",
+          "1 tbsp. ginger garlic paste"
+        ],
+
+        "instructions": "Wash the rice and soak it in water for 30 minutes., Heat ghee in a large pan and fry sliced onions until golden brown., Add ginger garlic paste, tomatoes, and spices and cook for 2-3 minutes., Add chicken and cook until browned., Add yogurt and cook for another 5 minutes., In a separate pot, boil water and add rice., Cook rice until it's 3/4th done., Layer rice and chicken mixture in a large pot, starting and ending with rice., Add mint and coriander leaves on top., Cover pot with a lid and cook on low heat for 15-20 minutes or until rice is fully cooked."
+      },
+      {
+        "title": "Suti Kabab",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb. chicken",
+          "1 onion",
+          "1 tomato",
+          "1 tbsp. ginger garlic paste"
+        ],
+
+        "instructions": "Wash the rice and soak it in water for 30 minutes., Heat ghee in a large pan and fry sliced onions until golden brown., Add ginger garlic paste, tomatoes, and spices and cook for 2-3 minutes., Add chicken and cook until browned., Add yogurt and cook for another 5 minutes., In a separate pot, boil water and add rice., Cook rice until it's 3/4th done., Layer rice and chicken mixture in a large pot, starting and ending with rice., Add mint and coriander leaves on top., Cover pot with a lid and cook on low heat for 15-20 minutes or until rice is fully cooked."
+      },
+      {
+        "title": "Boro Baper Pola Kaay",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb. chicken",
+          "1 onion",
+          "1 tomato",
+          "1 tbsp. ginger garlic paste"
+        ],
+
+        "instructions": "Wash the rice and soak it in water for 30 minutes., Heat ghee in a large pan and fry sliced onions until golden brown., Add ginger garlic paste, tomatoes, and spices and cook for 2-3 minutes., Add chicken and cook until browned., Add yogurt and cook for another 5 minutes., In a separate pot, boil water and add rice., Cook rice until it's 3/4th done., Layer rice and chicken mixture in a large pot, starting and ending with rice., Add mint and coriander leaves on top., Cover pot with a lid and cook on low heat for 15-20 minutes or until rice is fully cooked."
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Muntasir Mamun",
+    "years_of_experience": 12,
+    "num_of_recipes": 120,
+    "likes": 10000,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "image": "https://i.ibb.co/yS26pz8/Muntasir-Mamun.jpg",
+    "recipes": [
+      {
+        "title": "Roste Biryani",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb. chicken",
+          "1 onion",
+          "1 tomato",
+          "1 tbsp. ginger garlic paste"
+        ],
+
+        "instructions": "Wash the rice and soak it in water for 30 minutes., Heat ghee in a large pan and fry sliced onions until golden brown., Add ginger garlic paste, tomatoes, and spices and cook for 2-3 minutes., Add chicken and cook until browned., Add yogurt and cook for another 5 minutes., In a separate pot, boil water and add rice., Cook rice until it's 3/4th done., Layer rice and chicken mixture in a large pot, starting and ending with rice., Add mint and coriander leaves on top., Cover pot with a lid and cook on low heat for 15-20 minutes or until rice is fully cooked."
+      },
+      {
+        "title": "Kabab Biryani",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb. chicken",
+          "1 onion",
+          "1 tomato",
+          "1 tbsp. ginger garlic paste"
+        ],
+
+        "instructions": "Wash the rice and soak it in water for 30 minutes., Heat ghee in a large pan and fry sliced onions until golden brown., Add ginger garlic paste, tomatoes, and spices and cook for 2-3 minutes., Add chicken and cook until browned., Add yogurt and cook for another 5 minutes., In a separate pot, boil water and add rice., Cook rice until it's 3/4th done., Layer rice and chicken mixture in a large pot, starting and ending with rice., Add mint and coriander leaves on top., Cover pot with a lid and cook on low heat for 15-20 minutes or until rice is fully cooked."
+      },
+      {
+        "title": "Nobabi Korma",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb. chicken",
+          "1 onion",
+          "1 tomato",
+          "1 tbsp. ginger garlic paste"
+        ],
+
+        "instructions": "Wash the rice and soak it in water for 30 minutes., Heat ghee in a large pan and fry sliced onions until golden brown., Add ginger garlic paste, tomatoes, and spices and cook for 2-3 minutes., Add chicken and cook until browned., Add yogurt and cook for another 5 minutes., In a separate pot, boil water and add rice., Cook rice until it's 3/4th done., Layer rice and chicken mixture in a large pot, starting and ending with rice., Add mint and coriander leaves on top., Cover pot with a lid and cook on low heat for 15-20 minutes or until rice is fully cooked."
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Siddika Kabir",
+    "years_of_experience": 50,
+    "num_of_recipes": 500,
+    "likes": 80000,
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "image": "https://i.ibb.co/br64VjG/Siddika-Kabir.jpg",
+    "recipes": [
+      {
+        "title": "Moglai porota",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb. chicken",
+          "1 onion",
+          "1 tomato",
+          "1 tbsp. ginger garlic paste"
+        ],
+
+        "instructions": "Wash the rice and soak it in water for 30 minutes., Heat ghee in a large pan and fry sliced onions until golden brown., Add ginger garlic paste, tomatoes, and spices and cook for 2-3 minutes., Add chicken and cook until browned., Add yogurt and cook for another 5 minutes., In a separate pot, boil water and add rice., Cook rice until it's 3/4th done., Layer rice and chicken mixture in a large pot, starting and ending with rice., Add mint and coriander leaves on top., Cover pot with a lid and cook on low heat for 15-20 minutes or until rice is fully cooked."
+      },
+      {
+        "title": "Malai Kari",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb. chicken",
+          "1 onion",
+          "1 tomato",
+          "1 tbsp. ginger garlic paste"
+        ],
+
+        "instructions": "Wash the rice and soak it in water for 30 minutes., Heat ghee in a large pan and fry sliced onions until golden brown., Add ginger garlic paste, tomatoes, and spices and cook for 2-3 minutes., Add chicken and cook until browned., Add yogurt and cook for another 5 minutes., In a separate pot, boil water and add rice., Cook rice until it's 3/4th done., Layer rice and chicken mixture in a large pot, starting and ending with rice., Add mint and coriander leaves on top., Cover pot with a lid and cook on low heat for 15-20 minutes or until rice is fully cooked."
+      },
+      {
+        "title": "Shahi Rejala",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb. chicken",
+          "1 onion",
+          "1 tomato",
+          "1 tbsp. ginger garlic paste"
+        ],
+
+        "instructions": "Wash the rice and soak it in water for 30 minutes., Heat ghee in a large pan and fry sliced onions until golden brown., Add ginger garlic paste, tomatoes, and spices and cook for 2-3 minutes., Add chicken and cook until browned., Add yogurt and cook for another 5 minutes., In a separate pot, boil water and add rice., Cook rice until it's 3/4th done., Layer rice and chicken mixture in a large pot, starting and ending with rice., Add mint and coriander leaves on top., Cover pot with a lid and cook on low heat for 15-20 minutes or until rice is fully cooked."
+      }
+    ]
+  }
+]
